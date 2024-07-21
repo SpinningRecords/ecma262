@@ -30,7 +30,7 @@
     "ecmarkup": "^17.0.0"
   },
   "devDependencies": {
-    "glob": "^7.1.6",
+    "glob": "^7.2.3",
     "jsdom": "^15.0.0",
     "tar-stream": "^2.2.0",
     "tiny-json-http": "^7.1.2"
